@@ -1,4 +1,4 @@
  👋 Hi, I’m @eemelitn
- 👀 I’m studying Software Engineering at Metropolia UAS.
+ 👀 Currently studying Software Engineering at Metropolia UAS.
 
 
